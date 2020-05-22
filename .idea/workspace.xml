@@ -6,85 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="633ec606-dd17-4f06-8630-8407b04b6ebe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/Interceptor/LoginInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-1.11.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/swjd/Interceptor/LoginInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/swjd/bean/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/swjd/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/swjd/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/swjd/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/swjd/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/classes/com/swjd/Interceptor/LoginInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/classes/com/swjd/bean/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/classes/com/swjd/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/classes/com/swjd/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/classes/com/swjd/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/classes/com/swjd/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/jsp/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/aspectjweaver-1.9.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/commons-io-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/commons-lang3-3.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/druid-1.1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/jsqlparser-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/lombok-1.18.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/mybatis-3.5.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/mybatis-plus-3.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/mybatis-plus-annotation-3.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/mybatis-plus-core-3.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/mybatis-plus-extension-3.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/mybatis-spring-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/mysql-connector-java-5.1.38.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/slf4j-api-1.6.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/slf4j-log4j12-1.6.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-aspects-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-jdbc-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-test-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-tx-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mybatisPlus/js/jquery-1.11.0.min.js" afterDir="false" />
-    </list>
+    <list default="true" id="633ec606-dd17-4f06-8630-8407b04b6ebe" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -167,8 +89,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="885" />
-    <option name="y" value="6" />
+    <option name="x" value="917" />
+    <option name="y" value="5" />
     <option name="width" value="1115" />
     <option name="height" value="1039" />
   </component>
@@ -407,15 +329,24 @@
       <workItem from="1590024998365" duration="166000" />
       <workItem from="1590059613164" duration="2710000" />
       <workItem from="1590114073039" duration="2784000" />
-      <workItem from="1590124592432" duration="2162000" />
+      <workItem from="1590124592432" duration="2904000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1590132917720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590132917720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8809000" />
+    <option name="totallyTimeSpent" value="9551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="708" y="5" width="892" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36570743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -454,6 +385,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
